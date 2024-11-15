@@ -1,0 +1,1398 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2774.6365532879818 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 2774.6365532879818 
+        intervals: size = 346 
+        intervals [1]:
+            xmin = 0 
+            xmax = 69.68872457196183 
+            text = "" 
+        intervals [2]:
+            xmin = 69.68872457196183 
+            xmax = 73.52689963264145 
+            text = "I'm majoring in industrial design" 
+        intervals [3]:
+            xmin = 73.52689963264145 
+            xmax = 79.43178434137931 
+            text = "" 
+        intervals [4]:
+            xmin = 79.43178434137931 
+            xmax = 87.6617174041827 
+            text = "well initially when I came in I was a math major and after the first semester" 
+        intervals [5]:
+            xmin = 87.6617174041827 
+            xmax = 92.32824132483816 
+            text = "" 
+        intervals [6]:
+            xmin = 92.32824132483816 
+            xmax = 107.31188627326047 
+            text = "I just decided to go with something more geared towards my interests rather than just strictly a stem so I picked industrial design because I like arts" 
+        intervals [7]:
+            xmin = 107.31188627326047 
+            xmax = 123.31742933623582 
+            text = "" 
+        intervals [8]:
+            xmin = 123.31742933623582 
+            xmax = 137.3046249900586 
+            text = "I'm on the overwatch e-sports team and it's a video game like playing games for on a collegiate level" 
+        intervals [9]:
+            xmin = 137.3046249900586 
+            xmax = 138.6127457326194 
+            text = "" 
+        intervals [10]:
+            xmin = 138.6127457326194 
+            xmax = 142.3402042050102 
+            text = "It's not we don't have like a varsity team or anything" 
+        intervals [11]:
+            xmin = 142.3402042050102 
+            xmax = 143.1399722283357 
+            text = "" 
+        intervals [12]:
+            xmin = 143.1399722283357 
+            xmax = 148.74961270163666 
+            text = "it's something I like to do and they have a club for it here so I joined" 
+        intervals [13]:
+            xmin = 148.74961270163666 
+            xmax = 158.00862456901385 
+            text = "" 
+        intervals [14]:
+            xmin = 158.00862456901385 
+            xmax = 186.4258822298148 
+            text = "it's any video game there are video like sports video games that they have that are played in e-sport level there's any video game so like shooter games arcade like the original pac man anything is really e-sports it's just if there's a following behind it then they might make a bigger league so there's like international teams for different games" 
+        intervals [15]:
+            xmin = 186.4258822298148 
+            xmax = 188.18670309608186 
+            text = "" 
+        intervals [16]:
+            xmin = 188.18670309608186 
+            xmax = 212.02767510761097 
+            text = "I play overwatch and that's probably the only competitive game that I play really I play other games like personally just with my friends or single player but in the competitive level just overwatch" 
+        intervals [17]:
+            xmin = 212.02767510761097 
+            xmax = 213.03974083893132 
+            text = "" 
+        intervals [18]:
+            xmin = 213.03974083893132 
+            xmax = 220.93752413686823 
+            text = "it's a team based shooter first person shoot so you like" 
+        intervals [19]:
+            xmin = 220.93752413686823 
+            xmax = 221.4542015488828 
+            text = "" 
+        intervals [20]:
+            xmin = 221.4542015488828 
+            xmax = 253.85725638808185 
+            text = "you know first person like in a game so you and your team there's several objectives usually that you and your team have to achieve so one of them is pushing a pyaload which is like a truck or some sort of moving vehicle from one place to another and the other team is trying to stop you from doing that and so there's three different roles there's the healer which I play a lot the damage that outputs the damage and then the tanks that protect the entire team" 
+        intervals [21]:
+            xmin = 253.85725638808185 
+            xmax = 256.42167282170277 
+            text = "" 
+        intervals [22]:
+            xmin = 256.42167282170277 
+            xmax = 277.2363914200037 
+            text = "using that you can either push the payload an the objective which is where you have to stand there like as just your team stands there for a certain amount of time and then it unlocks it and then you push the payload or you have to stand there for a certain amount of time and then move to the next space and stand there for a certain amount of time" 
+        intervals [23]:
+            xmin = 277.2363914200037 
+            xmax = 277.65056446267334 
+            text = "" 
+        intervals [24]:
+            xmin = 277.65056446267334 
+            xmax = 296.0664236480496 
+            text = "it gets increasingly more difficult as you move closer to where the enemy team starts and further from where you start so if you die like closer to their spawn where they start you have to walk farther to get back and so your team will be out you for longer" 
+        intervals [25]:
+            xmin = 296.0664236480496 
+            xmax = 307.24555734932636 
+            text = "" 
+        intervals [26]:
+            xmin = 307.24555734932636 
+            xmax = 324.8864004166807 
+            text = "it depends on whether you grouped up or not so I play with my friends so usually we're grouped but if you're not grouped if you're solo playing the game they'll give you a team near your skill level which is based off of a number that you get based off the amount of games you play" 
+        intervals [27]:
+            xmin = 324.8864004166807 
+            xmax = 326.53731408314394 
+            text = "" 
+        intervals [28]:
+            xmin = 326.53731408314394 
+            xmax = 333.47555361591094 
+            text = "the people on your team are outlined in blue and the people on the enemy team are outlined in red so you can tell the difference" 
+        intervals [29]:
+            xmin = 333.47555361591094 
+            xmax = 333.5846500399112 
+            text = "" 
+        intervals [30]:
+            xmin = 333.5846500399112 
+            xmax = 342.07292180872184 
+            text = "there's also communication between your team you might want to pick certain characters because you can pick different characters depending on how you want to play" 
+        intervals [31]:
+            xmin = 342.07292180872184 
+            xmax = 355.21869172880395 
+            text = "" 
+        intervals [32]:
+            xmin = 355.21869172880395 
+            xmax = 364.0022077330515 
+            text = "I probably started playing around 2016 that's about when it released my friend told me about it I was in" 
+        intervals [33]:
+            xmin = 364.0022077330515 
+            xmax = 364.14982985076995 
+            text = "" 
+        intervals [34]:
+            xmin = 364.14982985076995 
+            xmax = 375.8857882093865 
+            text = "I think it was my first year of high school and I started playing on the play station which is a video game console and then more recently I moved to playing on the computer" 
+        intervals [35]:
+            xmin = 375.8857882093865 
+            xmax = 376.2163178099644 
+            text = "" 
+        intervals [36]:
+            xmin = 376.2163178099644 
+            xmax = 382.19501357756144 
+            text = "I play a lot more often now which is I think I got better" 
+        intervals [37]:
+            xmin = 382.19501357756144 
+            xmax = 402.3060947892894 
+            text = "" 
+        intervals [38]:
+            xmin = 402.3060947892894 
+            xmax = 414.0789586773355 
+            text = "I came in during the summer so I was initially planning to move in on campus this was all in like February right before all this stuff happened" 
+        intervals [39]:
+            xmin = 414.0789586773355 
+            xmax = 416.12681017277714 
+            text = "" 
+        intervals [40]:
+            xmin = 416.12681017277714 
+            xmax = 429.634233944015 
+            text = "and we had a planned trip for Rome and we were I was I was concerned I was going to miss class because we had already planned it and then my summer semester came" 
+        intervals [41]:
+            xmin = 429.634233944015 
+            xmax = 431.1447075700989 
+            text = "" 
+        intervals [42]:
+            xmin = 431.1447075700989 
+            xmax = 440.8139562806571 
+            text = "then you know all the coronavirus hit and I had to stay at home I was planning to live on campus but I had to stay at home instead and do all my work at home and it wasn't" 
+        intervals [43]:
+            xmin = 440.8139562806571 
+            xmax = 441.0337679056279 
+            text = "" 
+        intervals [44]:
+            xmin = 441.0337679056279 
+            xmax = 449.37441755672006 
+            text = "I had already been doing high school like the last month or two of high school was online only" 
+        intervals [45]:
+            xmin = 449.37441755672006 
+            xmax = 449.63275626272736 
+            text = "" 
+        intervals [46]:
+            xmin = 449.63275626272736 
+            xmax = 457.86268932553077 
+            text = "and it wasn't that difficult and even though one over the summer wasn't that difficult but then when I came well that's because over the summer I only took like three classes" 
+        intervals [47]:
+            xmin = 457.86268932553077 
+            xmax = 457.87009215598954 
+            text = "" 
+        intervals [48]:
+            xmin = 457.87009215598954 
+            xmax = 468.7203178082953 
+            text = "but when I came here and I started taking four sixteen credit hour total classes it hits different you could say" 
+        intervals [49]:
+            xmin = 468.7203178082953 
+            xmax = 470.38106663262784 
+            text = "" 
+        intervals [50]:
+            xmin = 470.38106663262784 
+            xmax = 480.3824651080526 
+            text = "It's hard to stay focused stay motivated when you're sitting in front of a screen and I can just turn off my camera and go to sleep" 
+        intervals [51]:
+            xmin = 480.3824651080526 
+            xmax = 504.94847083440914 
+            text = "" 
+        intervals [52]:
+            xmin = 504.94847083440914 
+            xmax = 517.0165789578921 
+            text = "not much other than like floor activities because I live in Caldwell so we do stuff on our floor which isn't really pertaining to class" 
+        intervals [53]:
+            xmin = 517.0165789578921 
+            xmax = 520.7809429597124 
+            text = "" 
+        intervals [54]:
+            xmin = 520.7809429597124 
+            xmax = 526.2429613152949 
+            text = "like in person or had anything to do in person for class" 
+        intervals [55]:
+            xmin = 526.2429613152949 
+            xmax = 564.0752887078918 
+            text = "" 
+        intervals [56]:
+            xmin = 564.0752887078918 
+            xmax = 573.8921595361684 
+            text = "I think my some of my teachers want to do in-person stuff but I have a lot of asynchronous classes this semester so it's not like we talk a lot" 
+        intervals [57]:
+            xmin = 573.8921595361684 
+            xmax = 575.1838530662047 
+            text = "" 
+        intervals [58]:
+            xmin = 575.1838530662047 
+            xmax = 584.5947630707557 
+            text = "this is probably the first thing I've ever done for a class that's in person and it's only kind of in person it's not it's only kind of in person" 
+        intervals [59]:
+            xmin = 584.5947630707557 
+            xmax = 598.9854872208939 
+            text = "" 
+        intervals [60]:
+            xmin = 598.9854872208939 
+            xmax = 604.3736945176172 
+            text = "I was going to take a linguistics class because I'm kind of interested" 
+        intervals [61]:
+            xmin = 604.3736945176172 
+            xmax = 606.4855233013673 
+            text = "" 
+        intervals [62]:
+            xmin = 606.4855233013673 
+            xmax = 611.9106361275201 
+            text = "My parents didn't want me to take a bunch of credits this semester because of what happened last semester" 
+        intervals [63]:
+            xmin = 611.9106361275201 
+            xmax = 659.5048814421509 
+            text = "" 
+        intervals [64]:
+            xmin = 659.5048814421509 
+            xmax = 670.5396347416048 
+            text = "I have friends from high school that I'm really close with that they came here a lot of my other friends went to KSU from high school and I still keep in touch with them because I play over watch with them" 
+        intervals [65]:
+            xmin = 670.5396347416048 
+            xmax = 670.613445800464 
+            text = "" 
+        intervals [66]:
+            xmin = 670.613445800464 
+            xmax = 673.6766047431217 
+            text = "and they still live like nearby" 
+        intervals [67]:
+            xmin = 673.6766047431217 
+            xmax = 675.0224404035974 
+            text = "" 
+        intervals [68]:
+            xmin = 675.0224404035974 
+            xmax = 684.9131222907333 
+            text = "the friends that I've made while I'm here are pretty much all from my floor from Caldwell and we go out sometimes we hang out" 
+        intervals [69]:
+            xmin = 684.9131222907333 
+            xmax = 685.0238388790222 
+            text = "" 
+        intervals [70]:
+            xmin = 685.0238388790222 
+            xmax = 691.3715899409153 
+            text = "sometimes I'll see someone while I'm out and I'll go say high we'll talk for a bit go on with our day" 
+        intervals [71]:
+            xmin = 691.3715899409153 
+            xmax = 691.903661649213 
+            text = "" 
+        intervals [72]:
+            xmin = 691.903661649213 
+            xmax = 700.0228781237274 
+            text = "It's not really anybody I've made a close close relationship with a couple of like I made one friend from an app" 
+        intervals [73]:
+            xmin = 700.0228781237274 
+            xmax = 722.9658513309846 
+            text = "" 
+        intervals [74]:
+            xmin = 722.9658513309846 
+            xmax = 738.3923626325621 
+            text = "um yeah I'm not like going out with the intention to make friends I'm not going outside I want to but at the same time I don't know where to go or what to do" 
+        intervals [75]:
+            xmin = 738.3923626325621 
+            xmax = 776.7610363655936 
+            text = "" 
+        intervals [76]:
+            xmin = 776.7610363655936 
+            xmax = 787.6112620178993 
+            text = "It was a normal-ish public school it was a certified certified stem high school and being in stem program you had to do" 
+        intervals [77]:
+            xmin = 787.6112620178993 
+            xmax = 787.7482395892636 
+            text = "" 
+        intervals [78]:
+            xmin = 787.7482395892636 
+            xmax = 794.2436127688751 
+            text = "you got to take certain classes but you had to do certain things like you had to have a certain amount of volunteer hours" 
+        intervals [79]:
+            xmin = 794.2436127688751 
+            xmax = 794.3912348865936 
+            text = "" 
+        intervals [80]:
+            xmin = 794.3912348865936 
+            xmax = 803.8021448911445 
+            text = "you had to do internships or quote academic experiences that's what I did I went to different colleges and I took like courses there" 
+        intervals [81]:
+            xmin = 803.8021448911445 
+            xmax = 806.0796431694263 
+            text = "" 
+        intervals [82]:
+            xmin = 806.0796431694263 
+            xmax = 818.6275231754942 
+            text = "you had to do science fair every year and then make a compilation of the projects that you did in your special class so I took engineering while I was in high school because I wanted to do architecture and I thought they were related" 
+        intervals [83]:
+            xmin = 818.6275231754942 
+            xmax = 829.1259301345132 
+            text = "" 
+        intervals [84]:
+            xmin = 829.1259301345132 
+            xmax = 835.3998701375472 
+            text = "that was it just four years of engineering that's the only special thing about the high school" 
+        intervals [85]:
+            xmin = 835.3998701375472 
+            xmax = 837.0959029397026 
+            text = "" 
+        intervals [86]:
+            xmin = 837.0959029397026 
+            xmax = 844.7722530610617 
+            text = "it was pretty normal you know you have half days you have pep rallies you have sports games" 
+        intervals [87]:
+            xmin = 844.7722530610617 
+            xmax = 853.7485103187195 
+            text = "" 
+        intervals [88]:
+            xmin = 853.7485103187195 
+            xmax = 864.8201691476029 
+            text = "I'm not sure I don't talk to a lot of underclassmen and when I do I don't ask them about school because that's kind of boring" 
+        intervals [89]:
+            xmin = 864.8201691476029 
+            xmax = 864.856263901229 
+            text = "" 
+        intervals [90]:
+            xmin = 864.856263901229 
+            xmax = 875.0421900238018 
+            text = "I mean I think that half of it is online and half of it is in person so you get to like go on certain days and then not go on certain days" 
+        intervals [91]:
+            xmin = 875.0421900238018 
+            xmax = 886.093369148462 
+            text = "" 
+        intervals [92]:
+            xmin = 886.093369148462 
+            xmax = 891.7768206806222 
+            text = "that is a good question I liked math" 
+        intervals [93]:
+            xmin = 891.7768206806222 
+            xmax = 892.7634362046708 
+            text = "" 
+        intervals [94]:
+            xmin = 892.7634362046708 
+            xmax = 899.4064315020009 
+            text = "but it wasn't always my favorite class history was interesting I like history but" 
+        intervals [95]:
+            xmin = 899.4064315020009 
+            xmax = 908.7517426666367 
+            text = "" 
+        intervals [96]:
+            xmin = 908.7517426666367 
+            xmax = 913.4387449041973 
+            text = "I liked Spanish a lot mainly because of the teacher" 
+        intervals [97]:
+            xmin = 913.4387449041973 
+            xmax = 913.6405091523549 
+            text = "" 
+        intervals [98]:
+            xmin = 913.6405091523549 
+            xmax = 924.6752624518086 
+            text = "and I guess learning a new language is interesting too I like learning about the words and how they interact although sometimes I" 
+        intervals [99]:
+            xmin = 924.6752624518086 
+            xmax = 925.0435083576197 
+            text = "" 
+        intervals [100]:
+            xmin = 925.0435083576197 
+            xmax = 936.890183304525 
+            text = "I would get frustrated with all the conjugations and stuff why can't it be like English where you still have to conjugate sometimes words don't have like la" 
+        intervals [101]:
+            xmin = 936.890183304525 
+            xmax = 945.2751399281873 
+            text = "" 
+        intervals [102]:
+            xmin = 945.2751399281873 
+            xmax = 957.638492287107 
+            text = "probably math was my favorite subject I liked my calc teacher I take precalc was better than calc because it was easier" 
+        intervals [103]:
+            xmin = 957.638492287107 
+            xmax = 965.4337726030172 
+            text = "" 
+        intervals [104]:
+            xmin = 965.4337726030172 
+            xmax = 968.4231204868158 
+            text = "no I haven't I was going to" 
+        intervals [105]:
+            xmin = 968.4231204868158 
+            xmax = 1003.7636985018925 
+            text = "" 
+        intervals [106]:
+            xmin = 1003.7636985018925 
+            xmax = 1008.1185509745866 
+            text = "I was thinking I was thinking about rushing" 
+        intervals [107]:
+            xmin = 1008.1185509745866 
+            xmax = 1008.7828505043196 
+            text = "" 
+        intervals [108]:
+            xmin = 1008.7828505043196 
+            xmax = 1018.4890047443074 
+            text = "and I have Duolingo and I like I still am interested in languages like right now I'm on Dutch" 
+        intervals [109]:
+            xmin = 1018.4890047443074 
+            xmax = 1020.6008321407393 
+            text = "" 
+        intervals [110]:
+            xmin = 1020.6008321407393 
+            xmax = 1024.439007201419 
+            text = "I wanted to do Russian but I look at a little bit of Russian" 
+        intervals [111]:
+            xmin = 1024.439007201419 
+            xmax = 1026.7271500260547 
+            text = "" 
+        intervals [112]:
+            xmin = 1026.7271500260547 
+            xmax = 1033.3332397939553 
+            text = "I didn't know if I wanted to do it as a class I kind of liked having it as a hobby" 
+        intervals [113]:
+            xmin = 1033.3332397939553 
+            xmax = 1035.3245168315475 
+            text = "" 
+        intervals [114]:
+            xmin = 1035.3245168315475 
+            xmax = 1046.1378369544236 
+            text = "Arabic languages I don't think I could get down with that like the writing is hard and I don't know" 
+        intervals [115]:
+            xmin = 1046.1378369544236 
+            xmax = 1096.4999983635935 
+            text = "" 
+        intervals [116]:
+            xmin = 1096.4999983635935 
+            xmax = 1103.0691826020643 
+            text = "I lived on you could say the border of Lithia Springs and Douglasville" 
+        intervals [117]:
+            xmin = 1103.0691826020643 
+            xmax = 1103.290615778642 
+            text = "" 
+        intervals [118]:
+            xmin = 1103.290615778642 
+            xmax = 1110.2657608408385 
+            text = "because if I went to the McDonald's right down the road it was in Lithia Springs if I drove a little bit down the street back to my house I'm in Douglasville" 
+        intervals [119]:
+            xmin = 1110.2657608408385 
+            xmax = 1118.7614340527898 
+            text = "" 
+        intervals [120]:
+            xmin = 1118.7614340527898 
+            xmax = 1124.9615629969646 
+            text = "I wouldn't say it's exceptionally nice it's just a regular suburban town in my opinion" 
+        intervals [121]:
+            xmin = 1124.9615629969646 
+            xmax = 1129.4632268115738 
+            text = "" 
+        intervals [122]:
+            xmin = 1129.4632268115738 
+            xmax = 1147.2147864672168 
+            text = "there's still the old Douglasville town with like the city hall and some older looking buildings but as far as I know it's pretty regular nothing special no tall buildings nothing like that" 
+        intervals [123]:
+            xmin = 1147.2147864672168 
+            xmax = 1174.4281565419544 
+            text = "" 
+        intervals [124]:
+            xmin = 1174.4281565419544 
+            xmax = 1184.909326899964 
+            text = "I like Atlanta I came here a lot as a kid I was raised to go to church in Atlanta so every Sunday drive thirty minutes" 
+        intervals [125]:
+            xmin = 1184.909326899964 
+            xmax = 1187.9437939194545 
+            text = "" 
+        intervals [126]:
+            xmin = 1187.9437939194545 
+            xmax = 1192.4093629804374 
+            text = "a lot of functions that my parents would go to were in Atlanta" 
+        intervals [127]:
+            xmin = 1192.4093629804374 
+            xmax = 1192.5200795687263 
+            text = "" 
+        intervals [128]:
+            xmin = 1192.5200795687263 
+            xmax = 1200.7500126315297 
+            text = "they used to work in Atlanta because they worked for the Fulton County Police Department and so they would have to take me sometimes" 
+        intervals [129]:
+            xmin = 1200.7500126315297 
+            xmax = 1204.0239602044107 
+            text = "" 
+        intervals [130]:
+            xmin = 1204.0239602044107 
+            xmax = 1214.2098863269835 
+            text = "Atlanta is cool I like exploring now that I can actually be here on the weekend or just free time go outside and walk around" 
+        intervals [131]:
+            xmin = 1214.2098863269835 
+            xmax = 1218.5360454891918 
+            text = "" 
+        intervals [132]:
+            xmin = 1218.5360454891918 
+            xmax = 1225.732623727966 
+            text = "Midtown is like across campus and then some going" 
+        intervals [133]:
+            xmin = 1225.732623727966 
+            xmax = 1229.984973218634 
+            text = "" 
+        intervals [134]:
+            xmin = 1229.984973218634 
+            xmax = 1242.7173808718499 
+            text = "the Atlanta that I'm looking for it's not like the tall buildings interesting places to go it's kind of just the shops and apartment area" 
+        intervals [135]:
+            xmin = 1242.7173808718499 
+            xmax = 1253.4813072268973 
+            text = "" 
+        intervals [136]:
+            xmin = 1253.4813072268973 
+            xmax = 1256.9873325227106 
+            text = "it's a congregationalist kind of" 
+        intervals [137]:
+            xmin = 1256.9873325227106 
+            xmax = 1262.0237211261472 
+            text = "" 
+        intervals [138]:
+            xmin = 1262.0237211261472 
+            xmax = 1267.8547947760258 
+            text = "what I would refer to as hooping and hollering kind of church it's not that" 
+        intervals [139]:
+            xmin = 1267.8547947760258 
+            xmax = 1272.5787025430159 
+            text = "" 
+        intervals [140]:
+            xmin = 1272.5787025430159 
+            xmax = 1275.715672544533 
+            text = "majority black" 
+        intervals [141]:
+            xmin = 1275.715672544533 
+            xmax = 1275.9740112505403 
+            text = "" 
+        intervals [142]:
+            xmin = 1275.9740112505403 
+            xmax = 1283.502739254181 
+            text = "although there's people of every race sometimes college students come in right not it's not open it's only virtual" 
+        intervals [143]:
+            xmin = 1283.502739254181 
+            xmax = 1292.2559417836544 
+            text = "" 
+        intervals [144]:
+            xmin = 1292.2559417836544 
+            xmax = 1301.1132688467612 
+            text = "because I like the people there I don't share the same beliefs but I like the people that are there and like as a kid" 
+        intervals [145]:
+            xmin = 1301.1132688467612 
+            xmax = 1301.4085130821982 
+            text = "" 
+        intervals [146]:
+            xmin = 1301.4085130821982 
+            xmax = 1304.0288056717004 
+            text = "or mainly in middle school when I was kind of in my" 
+        intervals [147]:
+            xmin = 1304.0288056717004 
+            xmax = 1305.144185160851 
+            text = "" 
+        intervals [148]:
+            xmin = 1305.144185160851 
+            xmax = 1313.8538901062393 
+            text = "rebellious edgy sort of phase I was like I don't want to go to church I don't associate with that kind of stuff" 
+        intervals [149]:
+            xmin = 1313.8538901062393 
+            xmax = 1314.3336619888244 
+            text = "" 
+        intervals [150]:
+            xmin = 1314.3336619888244 
+            xmax = 1324.519588111397 
+            text = "as my parents kept making me go and I kind of realized the people there are cool they're interesting to talk to they're all elderly" 
+        intervals [151]:
+            xmin = 1324.519588111397 
+            xmax = 1324.6098249954628 
+            text = "" 
+        intervals [152]:
+            xmin = 1324.6098249954628 
+            xmax = 1331.8064032342368 
+            text = "but I don't really mind that because they all have different experiences to tell me they could tell me about my family" 
+        intervals [153]:
+            xmin = 1331.8064032342368 
+            xmax = 1332.0647419402442 
+            text = "" 
+        intervals [154]:
+            xmin = 1332.0647419402442 
+            xmax = 1338.3017764138485 
+            text = "my great grand dad was a pastor they would always talk to me about that so" 
+        intervals [155]:
+            xmin = 1338.3017764138485 
+            xmax = 1353.634807728147 
+            text = "" 
+        intervals [156]:
+            xmin = 1353.634807728147 
+            xmax = 1359.9456532606107 
+            text = "when I guess when all the vaccines roll out and phase whatever is done" 
+        intervals [157]:
+            xmin = 1359.9456532606107 
+            xmax = 1369.8798327318314 
+            text = "" 
+        intervals [158]:
+            xmin = 1369.8798327318314 
+            xmax = 1378.7002542655086 
+            text = "I don't think I've had anyone in my family get sick and die from it I know some" 
+        intervals [159]:
+            xmin = 1378.7002542655086 
+            xmax = 1379.5859869718195 
+            text = "" 
+        intervals [160]:
+            xmin = 1379.5859869718195 
+            xmax = 1385.2694385039797 
+            text = "of my family friends that were elderly got sick and deceased" 
+        intervals [161]:
+            xmin = 1385.2694385039797 
+            xmax = 1387.3902902824766 
+            text = "" 
+        intervals [162]:
+            xmin = 1387.3902902824766 
+            xmax = 1397.2071611107535 
+            text = "me personally it only affected how much I went out and wearing the mask of course I definitely go out a lot less" 
+        intervals [163]:
+            xmin = 1397.2071611107535 
+            xmax = 1397.5934530060592 
+            text = "" 
+        intervals [164]:
+            xmin = 1397.5934530060592 
+            xmax = 1406.930551951751 
+            text = "I want to go out with friends and stuff to go eat and whatever but can't really do big group meetings" 
+        intervals [165]:
+            xmin = 1406.930551951751 
+            xmax = 1409.024333358688 
+            text = "" 
+        intervals [166]:
+            xmin = 1409.024333358688 
+            xmax = 1430.7616901927292 
+            text = "the response I'm envious of other countries honestly like places that actually locked down and they're over it now but I wish that would be here but I can only do so much myself" 
+        intervals [167]:
+            xmin = 1430.7616901927292 
+            xmax = 1442.9930354833332 
+            text = "" 
+        intervals [168]:
+            xmin = 1442.9930354833332 
+            xmax = 1449.5622197218042 
+            text = "I have a career in mind I want to be an art director and I know that has very little" 
+        intervals [169]:
+            xmin = 1449.5622197218042 
+            xmax = 1449.8205584278114 
+            text = "" 
+        intervals [170]:
+            xmin = 1449.8205584278114 
+            xmax = 1457.8290583140372 
+            text = "to do with industrial design but I feel like I can tie them in I want to do industrial design maybe art history major and then I'll have" 
+        intervals [171]:
+            xmin = 1457.8290583140372 
+            xmax = 1458.371996709127 
+            text = "" 
+        intervals [172]:
+            xmin = 1458.371996709127 
+            xmax = 1460.7708561220518 
+            text = "like some sort of art background" 
+        intervals [173]:
+            xmin = 1460.7708561220518 
+            xmax = 1462.357793887525 
+            text = "" 
+        intervals [174]:
+            xmin = 1462.357793887525 
+            xmax = 1470.8091601269061 
+            text = "I'll practice drawing on the sun I guess and after I graduate my parents want me to go right back into school" 
+        intervals [175]:
+            xmin = 1470.8091601269061 
+            xmax = 1472.5068144806685 
+            text = "" 
+        intervals [176]:
+            xmin = 1472.5068144806685 
+            xmax = 1475.791406599904 
+            text = "I'll think about it and I'll probably do art or something" 
+        intervals [177]:
+            xmin = 1475.791406599904 
+            xmax = 1477.7917080195616 
+            text = "" 
+        intervals [178]:
+            xmin = 1477.7917080195616 
+            xmax = 1486.5752240238091 
+            text = "try to find some sort of company that's looking for some graphic design or art sort of career" 
+        intervals [179]:
+            xmin = 1486.5752240238091 
+            xmax = 1490.7168569261878 
+            text = "" 
+        intervals [180]:
+            xmin = 1490.7168569261878 
+            xmax = 1502.0837599905085 
+            text = "well because they went to school later in life well my dad actually went undergrad grad and then went to find a job ended up working in police" 
+        intervals [181]:
+            xmin = 1502.0837599905085 
+            xmax = 1502.415909755375 
+            text = "" 
+        intervals [182]:
+            xmin = 1502.415909755375 
+            xmax = 1513.9304349374138 
+            text = "and then my mom she waited and she was like I didn't want to have to wait until now to go back to school so they want me to do it as fast as possible" 
+        intervals [183]:
+            xmin = 1513.9304349374138 
+            xmax = 1530.173616249053 
+            text = "" 
+        intervals [184]:
+            xmin = 1530.173616249053 
+            xmax = 1535.5618235457764 
+            text = "Me and my dad like this restaurant called Taco Mac a lot" 
+        intervals [185]:
+            xmin = 1535.5618235457764 
+            xmax = 1537.2217615943055 
+            text = "" 
+        intervals [186]:
+            xmin = 1537.2217615943055 
+            xmax = 1547.333876658019 
+            text = "So I guess that would be my favorite spot I like staying at home a lot kind of introverted sort of extroverted sometimes depending on how I feel" 
+        intervals [187]:
+            xmin = 1547.333876658019 
+            xmax = 1554.8240775806232 
+            text = "" 
+        intervals [188]:
+            xmin = 1554.8240775806232 
+            xmax = 1560.2122848773465 
+            text = "Tech green was cool when I came on the tour before corona hit" 
+        intervals [189]:
+            xmin = 1560.2122848773465 
+            xmax = 1562.7218608785602 
+            text = "" 
+        intervals [190]:
+            xmin = 1562.7218608785602 
+            xmax = 1565.674303232929 
+            text = "I don't really know if I wanna go now" 
+        intervals [191]:
+            xmin = 1565.674303232929 
+            xmax = 1577.8605307751593 
+            text = "" 
+        intervals [192]:
+            xmin = 1577.8605307751593 
+            xmax = 1587.1976297208512 
+            text = "Saturday I had an overwatch game against another school in a tournament that we're in" 
+        intervals [193]:
+            xmin = 1587.1976297208512 
+            xmax = 1588.0636934987417 
+            text = "" 
+        intervals [194]:
+            xmin = 1588.0636934987417 
+            xmax = 1599.7258407984991 
+            text = "and we got flattened we got destroyed that was Saturday and Saturday was preparing for Sunday because I wanted to take the person that I met" 
+        intervals [195]:
+            xmin = 1599.7258407984991 
+            xmax = 1600.3532347988025 
+            text = "" 
+        intervals [196]:
+            xmin = 1600.3532347988025 
+            xmax = 1605.6676310366665 
+            text = "go get food or something I don't know and I already had chocolates and stuff" 
+        intervals [197]:
+            xmin = 1605.6676310366665 
+            xmax = 1609.5041859330577 
+            text = "" 
+        intervals [198]:
+            xmin = 1609.5041859330577 
+            xmax = 1615.9995591126694 
+            text = "you know this week is kind of a hell week so she was like I don't know if I have time" 
+        intervals [199]:
+            xmin = 1615.9995591126694 
+            xmax = 1619.6704431272103 
+            text = "" 
+        intervals [200]:
+            xmin = 1619.6704431272103 
+            xmax = 1626.5717771305478 
+            text = "ten forty five eleven o'clock she was like hey let's go to get donuts and I was like okay" 
+        intervals [201]:
+            xmin = 1626.5717771305478 
+            xmax = 1627.1803129782347 
+            text = "" 
+        intervals [202]:
+            xmin = 1627.1803129782347 
+            xmax = 1634.8935686290235 
+            text = "so then I went to get donuts I was watching shows with my friends I do that very often I like watching TV like movies and stuff" 
+        intervals [203]:
+            xmin = 1634.8935686290235 
+            xmax = 1636.9963730307077 
+            text = "" 
+        intervals [204]:
+            xmin = 1636.9963730307077 
+            xmax = 1643.3810296220304 
+            text = "I was like I'll be back later and then we got donuts it was nice we talked" 
+        intervals [205]:
+            xmin = 1643.3810296220304 
+            xmax = 1645.898819229506 
+            text = "" 
+        intervals [206]:
+            xmin = 1645.898819229506 
+            xmax = 1656.93357252896 
+            text = "I saw one of my friends he was running around the track like after I walked her back to her dorm I saw one of my friends running around the track and I wanted to go on a run with him" 
+        intervals [207]:
+            xmin = 1656.93357252896 
+            xmax = 1657.5043920714138 
+            text = "" 
+        intervals [208]:
+            xmin = 1657.5043920714138 
+            xmax = 1665.8819472519358 
+            text = "but he was used to running and I haven't ran since my senior year in high school when I was in JROTC" 
+        intervals [209]:
+            xmin = 1665.8819472519358 
+            xmax = 1667.569766447829 
+            text = "" 
+        intervals [210]:
+            xmin = 1667.569766447829 
+            xmax = 1676.6854322169431 
+            text = "I ran for a little bit and then I got like really tired and I walked back to my dorm and then I sat down and I had some wings" 
+        intervals [211]:
+            xmin = 1676.6854322169431 
+            xmax = 1678.0411030352877 
+            text = "" 
+        intervals [212]:
+            xmin = 1678.0411030352877 
+            xmax = 1684.5364762148995 
+            text = "I went to sleep because well at least I tried to go to sleep because I had a class at eight AM" 
+        intervals [213]:
+            xmin = 1684.5364762148995 
+            xmax = 1702.1478165832827 
+            text = "" 
+        intervals [214]:
+            xmin = 1702.1478165832827 
+            xmax = 1709.6027335280644 
+            text = "4 AM on Sundays like as long as I don't have a class in the morning I'll stay up late sleeping" 
+        intervals [215]:
+            xmin = 1709.6027335280644 
+            xmax = 1722.7665508249597 
+            text = "" 
+        intervals [216]:
+            xmin = 1722.7665508249597 
+            xmax = 1738.9680782445594 
+            text = "typically browsing only like I barely post on my Instagram very rarely post on Snap mainly because I don't want to get ready to take a picture and I don't think pictures capture my" 
+        intervals [217]:
+            xmin = 1738.9680782445594 
+            xmax = 1741.660561728632 
+            text = "" 
+        intervals [218]:
+            xmin = 1741.660561728632 
+            xmax = 1750.886944086035 
+            text = "it doesn't portray me in the it gets me bad pictures at least the ones that I take of myself are bad I think my senior pictures are pretty good" 
+        intervals [219]:
+            xmin = 1750.886944086035 
+            xmax = 1755.8954501547894 
+            text = "" 
+        intervals [220]:
+            xmin = 1755.8954501547894 
+            xmax = 1765.933754159644 
+            text = "that's pretty much how I use social media I use twitter sometimes but mainly just for browsing on most of these platforms I send a lot of" 
+        intervals [221]:
+            xmin = 1765.933754159644 
+            xmax = 1767.6305991249208 
+            text = "" 
+        intervals [222]:
+            xmin = 1767.6305991249208 
+            xmax = 1778.8867856009524 
+            text = "A lot of my feed are either my friends people I know or accounts that have funny videos or memes on them and I'll send them to my friends" 
+        intervals [223]:
+            xmin = 1778.8867856009524 
+            xmax = 1779.1451243069596 
+            text = "" 
+        intervals [224]:
+            xmin = 1779.1451243069596 
+            xmax = 1789.3310504295325 
+            text = "and one of my best friends that I know from when I was five we have similar sense of humor so we'll send each other the same sort of stuff" 
+        intervals [225]:
+            xmin = 1789.3310504295325 
+            xmax = 1795.96074671266 
+            text = "" 
+        intervals [226]:
+            xmin = 1795.96074671266 
+            xmax = 1805.5192788349293 
+            text = "not the ones from Georgia Tech I actually went with my friends to KSU and I met their team" 
+        intervals [227]:
+            xmin = 1805.5192788349293 
+            xmax = 1807.6967050712765 
+            text = "" 
+        intervals [228]:
+            xmin = 1807.6967050712765 
+            xmax = 1814.96709436891 
+            text = "I met their coach and stuff but from our team I haven't met any of the people in person" 
+        intervals [229]:
+            xmin = 1814.96709436891 
+            xmax = 1815.8602299056795 
+            text = "" 
+        intervals [230]:
+            xmin = 1815.8602299056795 
+            xmax = 1820.362704496092 
+            text = "I think a lot of them I think a lot of them are in graduate school" 
+        intervals [231]:
+            xmin = 1820.362704496092 
+            xmax = 1832.4759303679484 
+            text = "" 
+        intervals [232]:
+            xmin = 1832.4759303679484 
+            xmax = 1836.2033888403394 
+            text = "Players that are really good that probably don't play anymore" 
+        intervals [233]:
+            xmin = 1836.2033888403394 
+            xmax = 1844.2471740917056 
+            text = "" 
+        intervals [234]:
+            xmin = 1844.2471740917056 
+            xmax = 1860.6701346878829 
+            text = "I don't have that kind of skill like mentally I don't feel like remembering all this like sort of playing the game keeping up the main thing about Overwatch specifically is that they update the game regularly" 
+        intervals [235]:
+            xmin = 1860.6701346878829 
+            xmax = 1860.8177568056012 
+            text = "" 
+        intervals [236]:
+            xmin = 1860.8177568056012 
+            xmax = 1871.667982457907 
+            text = "change certain heroes depending on how prevelant they are used and so if someone is used too often they'll look at that as the character is too" 
+        intervals [237]:
+            xmin = 1871.667982457907 
+            xmax = 1871.795124871402 
+            text = "" 
+        intervals [238]:
+            xmin = 1871.795124871402 
+            xmax = 1881.3536569936716 
+            text = "easy or overpowered over these other characters and they'll try to nerf or buff them in that sense" 
+        intervals [239]:
+            xmin = 1881.3536569936716 
+            xmax = 1912.9694296168873 
+            text = "" 
+        intervals [240]:
+            xmin = 1912.9694296168873 
+            xmax = 1920.904118444254 
+            text = "that was a bad memory but I'll share it anyway there was one time I was in the fourth grade" 
+        intervals [241]:
+            xmin = 1920.904118444254 
+            xmax = 1922.683796075819 
+            text = "" 
+        intervals [242]:
+            xmin = 1922.683796075819 
+            xmax = 1930.470862785467 
+            text = "the elementary school I went to they had trailers outside and so I had to I was in a class that was in a trailer" 
+        intervals [243]:
+            xmin = 1930.470862785467 
+            xmax = 1930.6176755147005 
+            text = "" 
+        intervals [244]:
+            xmin = 1930.6176755147005 
+            xmax = 1938.5154588126375 
+            text = "but I think one of teachers or several of the teachers were gone for a meeting so we all had to go to one classrom and that one was inside the building" 
+        intervals [245]:
+            xmin = 1938.5154588126375 
+            xmax = 1939.6677424438994 
+            text = "" 
+        intervals [246]:
+            xmin = 1939.6677424438994 
+            xmax = 1951.0715510376494 
+            text = "we went inside and we were watching on this old TV that was like I don't know I was a kid so it probably was not that high" 
+        intervals [247]:
+            xmin = 1951.0715510376494 
+            xmax = 1951.2273867616298 
+            text = "" 
+        intervals [248]:
+            xmin = 1951.2273867616298 
+            xmax = 1961.2287852370546 
+            text = "I'd say it was ten feet off the ground in my opinion because I was a kid but uh we were watching I think Freaky Friday" 
+        intervals [249]:
+            xmin = 1961.2287852370546 
+            xmax = 1963.2487541978142 
+            text = "" 
+        intervals [250]:
+            xmin = 1963.2487541978142 
+            xmax = 1967.640512199938 
+            text = "there was this kid that I was sort of friends with" 
+        intervals [251]:
+            xmin = 1967.640512199938 
+            xmax = 1968.9683018709188 
+            text = "" 
+        intervals [252]:
+            xmin = 1968.9683018709188 
+            xmax = 1979.9292441115135 
+            text = "I don't remember what led up to this but we were fighting over a pencil and so like I was pulling on the pencil and he was pulling it back but he was pulling it back towards his face" 
+        intervals [253]:
+            xmin = 1979.9292441115135 
+            xmax = 1980.039149923999 
+            text = "" 
+        intervals [254]:
+            xmin = 1980.039149923999 
+            xmax = 1991.4798640471788 
+            text = "and I was pulling it away from his face and then my hand slipped and let go and so the momentum of his hand the pencil ended up going up his nose" 
+        intervals [255]:
+            xmin = 1991.4798640471788 
+            xmax = 1992.2171638599675 
+            text = "" 
+        intervals [256]:
+            xmin = 1992.2171638599675 
+            xmax = 2002.5876176296883 
+            text = "it was really bad and I was crying before he was crying and I was like I didn't mean to do this" 
+        intervals [257]:
+            xmin = 2002.5876176296883 
+            xmax = 2004.053194260518 
+            text = "" 
+        intervals [258]:
+            xmin = 2004.053194260518 
+            xmax = 2007.8175582623383 
+            text = "I didn't get in trouble for it somehow" 
+        intervals [259]:
+            xmin = 2007.8175582623383 
+            xmax = 2042.4603936872677 
+            text = "" 
+        intervals [260]:
+            xmin = 2042.4603936872677 
+            xmax = 2052.0927368683965 
+            text = "I went to Boundary Waters which is where I had swum at swim team in high school but I went there it's in Douglas County" 
+        intervals [261]:
+            xmin = 2052.0927368683965 
+            xmax = 2061.4282156497984 
+            text = "" 
+        intervals [262]:
+            xmin = 2061.4282156497984 
+            xmax = 2073.2010795378437 
+            text = "When I do look in the news usually it's on CNN sometimes I'll tune into CNBC if I want to find a scholarly source I'll look at Reuters AP" 
+        intervals [263]:
+            xmin = 2073.2010795378437 
+            xmax = 2082.986603975106 
+            text = "" 
+        intervals [264]:
+            xmin = 2082.986603975106 
+            xmax = 2091.6224978616347 
+            text = "if it's finance I'll try to look at yahoo finance or CNBC usually" 
+        intervals [265]:
+            xmin = 2091.6224978616347 
+            xmax = 2093.9369016693463 
+            text = "" 
+        intervals [266]:
+            xmin = 2093.9369016693463 
+            xmax = 2096.778627435426 
+            text = "If I want to see something funny I'll go to the onion" 
+        intervals [267]:
+            xmin = 2096.778627435426 
+            xmax = 2106.7324744477487 
+            text = "" 
+        intervals [268]:
+            xmin = 2106.7324744477487 
+            xmax = 2118.431527276935 
+            text = "I wouldn't say very often usually it's with my friends we have a chat and the chat is formatted into sections and then there's like a news section so if something pops up in the news" 
+        intervals [269]:
+            xmin = 2118.431527276935 
+            xmax = 2119.279543678013 
+            text = "" 
+        intervals [270]:
+            xmin = 2119.279543678013 
+            xmax = 2129.7238085065924 
+            text = "If I look in there I'll share my opinion on it if somebody says something I'll share my opinion on it but I'm not like out to express myself" 
+        intervals [271]:
+            xmin = 2129.7238085065924 
+            xmax = 2149.2353782527 
+            text = "" 
+        intervals [272]:
+            xmin = 2149.2353782527 
+            xmax = 2153.627136254823 
+            text = "human rights are very important to me I think that" 
+        intervals [273]:
+            xmin = 2153.627136254823 
+            xmax = 2157.1413751568994 
+            text = "" 
+        intervals [274]:
+            xmin = 2157.1413751568994 
+            xmax = 2166.4046630437315 
+            text = "I think that racism is still prevalent and that it's not it's not fair that people get away with it still" 
+        intervals [275]:
+            xmin = 2166.4046630437315 
+            xmax = 2166.8467186210837 
+            text = "" 
+        intervals [276]:
+            xmin = 2166.8467186210837 
+            xmax = 2176.62668391993 
+            text = "and it's kind of ridiculous when you see it on a phone and someone records it and uploads it to media and it blows up" 
+        intervals [277]:
+            xmin = 2176.62668391993 
+            xmax = 2176.958833684797 
+            text = "" 
+        intervals [278]:
+            xmin = 2176.958833684797 
+            xmax = 2181.9779856872237 
+            text = "but you'll be surprised how much more it exists" 
+        intervals [279]:
+            xmin = 2181.9779856872237 
+            xmax = 2183.5173733769134 
+            text = "" 
+        intervals [280]:
+            xmin = 2183.5173733769134 
+            xmax = 2193.592582911197 
+            text = "on things that didn't blow up or events that didn't hit the news media like front page that you don't see" 
+        intervals [281]:
+            xmin = 2193.592582911197 
+            xmax = 2193.7771105583447 
+            text = "" 
+        intervals [282]:
+            xmin = 2193.7771105583447 
+            xmax = 2198.279585148757 
+            text = "and so if it's happening on this big stage imagine on the smaller stage" 
+        intervals [283]:
+            xmin = 2198.279585148757 
+            xmax = 2207.965259684523 
+            text = "" 
+        intervals [284]:
+            xmin = 2207.965259684523 
+            xmax = 2213.9808609815495 
+            text = "a while ago when I was in like middle school when there was a lot of" 
+        intervals [285]:
+            xmin = 2213.9808609815495 
+            xmax = 2215.7605400004336 
+            text = "" 
+        intervals [286]:
+            xmin = 2215.7605400004336 
+            xmax = 2229.8584522425444 
+            text = "there was a lot of school shootings that were in the news and obviously that's like a media thing where they like take one thing and keep sharing it or like keep talking about it for a bit" 
+        intervals [287]:
+            xmin = 2229.8584522425444 
+            xmax = 2236.2414872822606 
+            text = " " 
+        intervals [288]:
+            xmin = 2236.2414872822606 
+            xmax = 2243.585687638753 
+            text = "English teacher and we had to write about what we thought about gun control laws and it was then I was just like" 
+        intervals [289]:
+            xmin = 2243.585687638753 
+            xmax = 2246.9801855704736 
+            text = "" 
+        intervals [290]:
+            xmin = 2246.9801855704736 
+            xmax = 2255.9851347512986 
+            text = "this is an extremely radical opinion but I was like why do we need guns because I feel like it's kind of unneccessary" 
+        intervals [291]:
+            xmin = 2255.9851347512986 
+            xmax = 2256.638789734678 
+            text = "" 
+        intervals [292]:
+            xmin = 2256.638789734678 
+            xmax = 2263.6877458557337 
+            text = "when if nobody has guns like that's not possible obviously but in an ideal world if there were no guns" 
+        intervals [293]:
+            xmin = 2263.6877458557337 
+            xmax = 2277.9693749691896 
+            text = "" 
+        intervals [294]:
+            xmin = 2277.9693749691896 
+            xmax = 2283.431393324772 
+            text = "that's probably what's most important to me human rights and gun control" 
+        intervals [295]:
+            xmin = 2283.431393324772 
+            xmax = 2295.3773295378087 
+            text = "" 
+        intervals [296]:
+            xmin = 2295.3773295378087 
+            xmax = 2298.846449304192 
+            text = "no but I have a friend who could say that" 
+        intervals [297]:
+            xmin = 2298.846449304192 
+            xmax = 2304.1239400126265 
+            text = "" 
+        intervals [298]:
+            xmin = 2304.1239400126265 
+            xmax = 2319.6611679024923 
+            text = "conservative at least more conservative than a lot of our friends are my other friends and sometimes I guess he feels alienated and we try not to alienate him but I mean it's just difference of opinions" 
+        intervals [299]:
+            xmin = 2319.6611679024923 
+            xmax = 2333.5811445521117 
+            text = "" 
+        intervals [300]:
+            xmin = 2333.5811445521117 
+            xmax = 2338.0467136130947 
+            text = "I can't like speak for him but that's my educated guess" 
+        intervals [301]:
+            xmin = 2338.0467136130947 
+            xmax = 2339.603115763356 
+            text = "" 
+        intervals [302]:
+            xmin = 2339.603115763356 
+            xmax = 2346.098488942968 
+            text = "but he does formulate his own opinions based on what he reads" 
+        intervals [303]:
+            xmin = 2346.098488942968 
+            xmax = 2352.040279181135 
+            text = "" 
+        intervals [304]:
+            xmin = 2352.040279181135 
+            xmax = 2360.6023620088044 
+            text = "one time in particular that I can think of something he put in chat wasn't very reputable but" 
+        intervals [305]:
+            xmin = 2360.6023620088044 
+            xmax = 2365.730609047914 
+            text = "" 
+        intervals [306]:
+            xmin = 2365.730609047914 
+            xmax = 2371.3771550506444 
+            text = "he knows what's best for him I think so what he believes" 
+        intervals [307]:
+            xmin = 2371.3771550506444 
+            xmax = 2398.5831222949237 
+            text = "" 
+        intervals [308]:
+            xmin = 2398.5831222949237 
+            xmax = 2416.7406427742917 
+            text = "oh my parents are Northerners and I just developed my speech from them and from media and when I consume media not a lot of it is Southern so I don't I don't think I have a Southern accent I say y'all" 
+        intervals [309]:
+            xmin = 2416.7406427742917 
+            xmax = 2418.9344948358457 
+            text = "" 
+        intervals [310]:
+            xmin = 2418.9344948358457 
+            xmax = 2426.6108449572043 
+            text = "but it's not I don't talk very slow I don't have like the Southerner accent I guess" 
+        intervals [311]:
+            xmin = 2426.6108449572043 
+            xmax = 2439.7475918825403 
+            text = "" 
+        intervals [312]:
+            xmin = 2439.7475918825403 
+            xmax = 2446.095342944433 
+            text = "people from school when I used to go to school high school" 
+        intervals [313]:
+            xmin = 2446.095342944433 
+            xmax = 2447.2394143567512 
+            text = "" 
+        intervals [314]:
+            xmin = 2447.2394143567512 
+            xmax = 2451.8526055354523 
+            text = "none I don't think any of the people in my friend group have a Southern accent" 
+        intervals [315]:
+            xmin = 2451.8526055354523 
+            xmax = 2453.4100406019547 
+            text = "" 
+        intervals [316]:
+            xmin = 2453.4100406019547 
+            xmax = 2458.3553815455225 
+            text = "I don't know Douglassville isn't very rural or country" 
+        intervals [317]:
+            xmin = 2458.3553815455225 
+            xmax = 2461.603068135328 
+            text = "" 
+        intervals [318]:
+            xmin = 2461.603068135328 
+            xmax = 2469.0210795506796 
+            text = "some of the people that I know but not a lot I wouldn't say a lot of people have Southern accents" 
+        intervals [319]:
+            xmin = 2469.0210795506796 
+            xmax = 2484.334443323878 
+            text = "" 
+        intervals [320]:
+            xmin = 2484.334443323878 
+            xmax = 2488.87382344372 
+            text = "I feel like the closer you get to Atlanta the less the Southern accent is prevalent" 
+        intervals [321]:
+            xmin = 2488.87382344372 
+            xmax = 2490.2393280326155 
+            text = "" 
+        intervals [322]:
+            xmin = 2490.2393280326155 
+            xmax = 2496.587079094508 
+            text = "they say that there's like a where 285 is anywhere outside of that people have a Southern accent" 
+        intervals [323]:
+            xmin = 2496.587079094508 
+            xmax = 2497.157898636962 
+            text = "" 
+        intervals [324]:
+            xmin = 2497.157898636962 
+            xmax = 2507.565257936112 
+            text = "there's some spots where bigger cities will not have Southern accents but if you go to Savannah I think people there would have a Southern accent anywhere" 
+        intervals [325]:
+            xmin = 2507.565257936112 
+            xmax = 2507.934313230408 
+            text = "" 
+        intervals [326]:
+            xmin = 2507.934313230408 
+            xmax = 2517.7511840586844 
+            text = "that's not like a big city definitely Southern accents South Georgia even North Georgia some of the people will have Southern accents it's just" 
+        intervals [327]:
+            xmin = 2517.7511840586844 
+            xmax = 2538.562659553773 
+            text = "" 
+        intervals [328]:
+            xmin = 2538.562659553773 
+            xmax = 2541.773440614149 
+            text = "but not for me specifically" 
+        intervals [329]:
+            xmin = 2541.773440614149 
+            xmax = 2543.9139613210664 
+            text = "" 
+        intervals [330]:
+            xmin = 2543.9139613210664 
+            xmax = 2555.87135285626 
+            text = "somebody heard someone with a Southern accent I would say over fifty percent of the time if they guessed conservative they would be right but that's not necessarily always true" 
+        intervals [331]:
+            xmin = 2555.87135285626 
+            xmax = 2593.5388215301286 
+            text = "" 
+        intervals [332]:
+            xmin = 2593.5388215301286 
+            xmax = 2603.3556923584047 
+            text = "I was like I'm not going to do that I say talk and walk with an el I try to pronounce my words like that's something that I came into when I was in like" 
+        intervals [333]:
+            xmin = 2603.3556923584047 
+            xmax = 2603.510717306582 
+            text = "" 
+        intervals [334]:
+            xmin = 2603.510717306582 
+            xmax = 2614.9145259003317 
+            text = "middle school pronouncing my words with more of the letters that are in them like elementary but sometimes I'll catch myself saying elementary" 
+        intervals [335]:
+            xmin = 2614.9145259003317 
+            xmax = 2624.3867587253435 
+            text = "" 
+        intervals [336]:
+            xmin = 2624.3867587253435 
+            xmax = 2631.3619037875396 
+            text = "well I used to read the dictionary and like as a kid and I would see the phonetics and I don't didn't know what the phonetics meant" 
+        intervals [337]:
+            xmin = 2631.3619037875396 
+            xmax = 2637.562032731714 
+            text = "because I couldn't I didn't know the ay ee that made the ah sound" 
+        intervals [338]:
+            xmin = 2637.562032731714 
+            xmax = 2640.9557198876323 
+            text = "" 
+        intervals [339]:
+            xmin = 2640.9557198876323 
+            xmax = 2653.8357496585663 
+            text = "later on when I actually learned what those meant I would go back into the dictionary and look at words that I say that have the letters in them and then read it and be like oh I'm pronouncing this incorrectly so I should be saying" 
+        intervals [340]:
+            xmin = 2653.8357496585663 
+            xmax = 2657.137579766131 
+            text = "" 
+        intervals [341]:
+            xmin = 2657.137579766131 
+            xmax = 2666.2532455352443 
+            text = "but sometimes a lot of times jokingly but also not jokingly I say la sag na and it's not right" 
+        intervals [342]:
+            xmin = 2666.2532455352443 
+            xmax = 2666.667418577914 
+            text = "" 
+        intervals [343]:
+            xmin = 2666.667418577914 
+            xmax = 2673.3104138752437 
+            text = "but saying words phonetically also helps me to remind like how to spell" 
+        intervals [344]:
+            xmin = 2673.3104138752437 
+            xmax = 2703.6344929684233 
+            text = "" 
+        intervals [345]:
+            xmin = 2703.6344929684233 
+            xmax = 2710.277488265753 
+            text = "I don't think at the time but I guess if you if you make me think about it I guess" 
+        intervals [346]:
+            xmin = 2710.277488265753 
+            xmax = 2774.6365532879818 
+            text = "" 

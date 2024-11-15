@@ -1,0 +1,926 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1776.7923809523809 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 1776.7923809523809 
+        intervals: size = 228 
+        intervals [1]:
+            xmin = 0 
+            xmax = 91.3339993561626 
+            text = "" 
+        intervals [2]:
+            xmin = 91.3339993561626 
+            xmax = 93.2271058541888 
+            text = "Neuroscience." 
+        intervals [3]:
+            xmin = 93.2271058541888 
+            xmax = 95.83012728897485 
+            text = "" 
+        intervals [4]:
+            xmin = 95.83012728897485 
+            xmax = 103.46171285914302 
+            text = "I chose neuroscience because I have a passion for the brain and I'm interested in learning more before I attend med school." 
+        intervals [5]:
+            xmin = 103.46171285914302 
+            xmax = 114.89599285991666 
+            text = "" 
+        intervals [6]:
+            xmin = 114.89599285991666 
+            xmax = 122.7050571642748 
+            text = "Well I actually looked up which colleges have the major neuroscience when doing my college search." 
+        intervals [7]:
+            xmin = 122.7050571642748 
+            xmax = 130.84094492849687 
+            text = "I found out about neuroscience mainly because I look up to Ben Carson a neurosurgeon as a model for my future career." 
+        intervals [8]:
+            xmin = 130.84094492849687 
+            xmax = 136.18760028742392 
+            text = "So I knew about neuro neuroscience prior to coming to college" 
+        intervals [9]:
+            xmin = 136.18760028742392 
+            xmax = 145.53481362142836 
+            text = "So I just saw Georgia Tech as a school that had the neuroscience major and with it being relatively new I decided to come here because there's many ways that it can expand." 
+        intervals [10]:
+            xmin = 145.53481362142836 
+            xmax = 151.59138391711508 
+            text = "" 
+        intervals [11]:
+            xmin = 151.59138391711508 
+            xmax = 159.19289817920895 
+            text = "Yea I watched his movie and I attended his academy when I was in the fith grade and sixth grade" 
+        intervals [12]:
+            xmin = 159.19289817920895 
+            xmax = 162.15087708237493 
+            text = "so I was able to learn a lot about him through that." 
+        intervals [13]:
+            xmin = 162.15087708237493 
+            xmax = 164.75097817951712 
+            text = "" 
+        intervals [14]:
+            xmin = 164.75097817951712 
+            xmax = 169.36542526845602 
+            text = "It's called the Ben Carson Science Academy and it's pretty much a summer academy" 
+        intervals [15]:
+            xmin = 169.36542526845602 
+            xmax = 173.8615532012683 
+            text = "where people around the metro Atlanta area can attend for the entire summer." 
+        intervals [16]:
+            xmin = 173.8615532012683 
+            xmax = 179.56897792725033 
+            text = "And there's two focuses of science and math. And the science portion each year " 
+        intervals [17]:
+            xmin = 179.56897792725033 
+            xmax = 185.48493573358226 
+            text = "the focus is on a different body system. So if one year we're learning about the nervous system" 
+        intervals [18]:
+            xmin = 185.48493573358226 
+            xmax = 194.4257812193772 
+            text = "we learn about all it's different functions and each of the organs that play a role in it. And we also do different dissections." 
+        intervals [19]:
+            xmin = 194.4257812193772 
+            xmax = 200.93333480634234 
+            text = "We were able to look at the brain of a cow while I was there learning about the nervous system." 
+        intervals [20]:
+            xmin = 200.93333480634234 
+            xmax = 209.65208611487847 
+            text = "And in the other focus math they just see which grade level that you are in and place you in a math class that is like a grade above" 
+        intervals [21]:
+            xmin = 209.65208611487847 
+            xmax = 212.90586290836103 
+            text = "what you're supposed to be studying for the following school year." 
+        intervals [22]:
+            xmin = 212.90586290836103 
+            xmax = 222.47514164301202 
+            text = "" 
+        intervals [23]:
+            xmin = 222.47514164301202 
+            xmax = 228.27278029321732 
+            text = "So far I've taken part in the student hospital connections" 
+        intervals [24]:
+            xmin = 228.27278029321732 
+            xmax = 234.54369556792918 
+            text = "and I was able to volunteer at a Red Cross blood drive." 
+        intervals [25]:
+            xmin = 234.54369556792918 
+            xmax = 242.02882797345478 
+            text = "I've also taken part in some of the I think it's called the SP" 
+        intervals [26]:
+            xmin = 242.02882797345478 
+            xmax = 247.50932966158817 
+            text = "CH organizations. Like whenever they have different activities" 
+        intervals [27]:
+            xmin = 247.50932966158817 
+            xmax = 253.67548687708253 
+            text = "I know specifically that they had the Friendsgiving last semester" 
+        intervals [28]:
+            xmin = 253.67548687708253 
+            xmax = 260.77463624468083 
+            text = "in November for like us to or Georgia Tech students to go out and eat food and hang out with theit friends." 
+        intervals [29]:
+            xmin = 260.77463624468083 
+            xmax = 269.0666636713376 
+            text = "I've also taken part in some community service at Books for Africa through my scholarship the Stamps President scholarship" 
+        intervals [30]:
+            xmin = 269.0666636713376 
+            xmax = 274.68682358735293 
+            text = "along with some of my peers in that. And apart from that" 
+        intervals [31]:
+            xmin = 274.68682358735293 
+            xmax = 282.2708733768086 
+            text = "that's pretty much it. I haven't really been able to really go out and be active how I wanted to just because I don't like " 
+        intervals [32]:
+            xmin = 282.2708733768086 
+            xmax = 287.53607582444397 
+            text = "sitting in Bluejeans calls. So I'm waiting for in person activities." 
+        intervals [33]:
+            xmin = 287.53607582444397 
+            xmax = 297.5097851077451 
+            text = "" 
+        intervals [34]:
+            xmin = 297.5097851077451 
+            xmax = 304.0144183570662 
+            text = "Originally I didn't think that it was going to go that well because I am better with an in person setting" 
+        intervals [35]:
+            xmin = 304.0144183570662 
+            xmax = 311.92821194402933 
+            text = "mainly because I just like being there with the teacher like one step away where I can raise my hand and they can answer immediately." 
+        intervals [36]:
+            xmin = 311.92821194402933 
+            xmax = 320.3288720290206 
+            text = "And I saw at the end of my high school year with being in group calls with a bunch of students it's kind of hard to ask questions" 
+        intervals [37]:
+            xmin = 320.3288720290206 
+            xmax = 326.8655138859745 
+            text = "mainly because like people don't have their cameras on. It's not that physical connection that you feel with being in person." 
+        intervals [38]:
+            xmin = 326.8655138859745 
+            xmax = 335.46400873882544 
+            text = "But over time I've kind of adapted to the online setting. Especially like with the tests being open note that's something different" 
+        intervals [39]:
+            xmin = 335.46400873882544 
+            xmax = 344.180822747803 
+            text = "and I saw that I am really like understanding the material more. Mainly because like although I do have my notes open" 
+        intervals [40]:
+            xmin = 344.180822747803 
+            xmax = 352.035456756703 
+            text = "you have to like understand where the material is and be able to like find it quickly because you can't just like keep looking at your notes each time." 
+        intervals [41]:
+            xmin = 352.035456756703 
+            xmax = 357.0048613140218 
+            text = "So I would I just did that. And I really liked that. And I also liked that " 
+        intervals [42]:
+            xmin = 357.0048613140218 
+            xmax = 363.7083123692881 
+            text = "with being online you can pretty much do school anywhere you want. You don't have to be on campus. And that" 
+        intervals [43]:
+            xmin = 363.7083123692881 
+            xmax = 370.57082342463303 
+            text = "gives me more freedom to do or freedom with my time to do anything I want while also doing school." 
+        intervals [44]:
+            xmin = 370.57082342463303 
+            xmax = 376.6031343109207 
+            text = "" 
+        intervals [45]:
+            xmin = 376.6031343109207 
+            xmax = 385.6545497546085 
+            text = "I only have two classes that have in person elements and they're for the labs. Chemistry has an in person lab that I attend every Wednesday" 
+        intervals [46]:
+            xmin = 385.6545497546085 
+            xmax = 390.4464755777373 
+            text = "and my Biology class has an in person lab that I attend every four weeks." 
+        intervals [47]:
+            xmin = 390.4464755777373 
+            xmax = 396.33429937555337 
+            text = "" 
+        intervals [48]:
+            xmin = 396.33429937555337 
+            xmax = 403.11920334211095 
+            text = "I met my friends at the beginning of the year during welcome week. I am a very" 
+        intervals [49]:
+            xmin = 403.11920334211095 
+            xmax = 410.63246975615243 
+            text = "extroverted person so I just walked up to people and introduced myself and I still remain friends with them till this day." 
+        intervals [50]:
+            xmin = 410.63246975615243 
+            xmax = 417.1400233431175 
+            text = "And additionally to that or in addition to that my roommate and I went to the same high school so" 
+        intervals [51]:
+            xmin = 417.1400233431175 
+            xmax = 422.76018325913276 
+            text = "as she made friends outside of our group like we all became friends with eachother." 
+        intervals [52]:
+            xmin = 422.76018325913276 
+            xmax = 425.09649507359114 
+            text = "So I've made friends through that way." 
+        intervals [53]:
+            xmin = 425.09649507359114 
+            xmax = 429.1736483227579 
+            text = "" 
+        intervals [54]:
+            xmin = 429.1736483227579 
+            xmax = 439.8301215723891 
+            text = "My high school was in Paulding county. It's a very rural area well it's in the city Dallas but it's still rural compared with other cities." 
+        intervals [55]:
+            xmin = 439.8301215723891 
+            xmax = 445.7557658765131 
+            text = "In my high school I attended the Academy of Science Research and Medicine which is a magnet program" 
+        intervals [56]:
+            xmin = 445.7557658765131 
+            xmax = 453.6831493369978 
+            text = "and although it was within the public school we had our own separate classes. Each cohort had about sixty students in there" 
+        intervals [57]:
+            xmin = 453.6831493369978 
+            xmax = 458.48476165791874 
+            text = "it either went to sixty one or fifty nine and some students dropped out over the" 
+        intervals [58]:
+            xmin = 458.48476165791874 
+            xmax = 466.64878343065675 
+            text = "four years. But throughout that program our focus was on biotechnology and healthcare. Those were the two pathways that we had. In the healthcare pathway " 
+        intervals [59]:
+            xmin = 466.64878343065675 
+            xmax = 470.98585136339057 
+            text = "you started out learning about the HIPAA rules and " 
+        intervals [60]:
+            xmin = 470.98585136339057 
+            xmax = 479.94609862138213 
+            text = "the ethics that in are involved with healthcare. And as you progressed you were able to take part in allied medicine and " 
+        intervals [61]:
+            xmin = 479.94609862138213 
+            xmax = 489.49695862192164 
+            text = "CNA which is like certified nursing assistant. So through this program the students were able to become certified nursing assistants by the time they graduated." 
+        intervals [62]:
+            xmin = 489.49695862192164 
+            xmax = 495.70871431857006 
+            text = "And on the biotechnology side it pretty much included" 
+        intervals [63]:
+            xmin = 495.70871431857006 
+            xmax = 504.85612680854376 
+            text = "doing work that was similar to the CDC. So we were able to get biotechnology certified in learning about aseptic technique and how to use the different" 
+        intervals [64]:
+            xmin = 504.85612680854376 
+            xmax = 512.487712378712 
+            text = "tools. And at the end of the or at the end of our four years or starting around your third year as a junior" 
+        intervals [65]:
+            xmin = 512.487712378712 
+            xmax = 516.6928712817976 
+            text = "you were able to take part in your own research project" 
+        intervals [66]:
+            xmin = 516.6928712817976 
+            xmax = 527.164116599005 
+            text = "and actually go to the science fair for the county. And even if you passed the science fair in the county then you were able to progress on to the international science fair." 
+        intervals [67]:
+            xmin = 527.164116599005 
+            xmax = 531.1976086665752 
+            text = "" 
+        intervals [68]:
+            xmin = 531.1976086665752 
+            xmax = 537.5868430974136 
+            text = "Actually I didn't end up going to the science fair just because my research" 
+        intervals [69]:
+            xmin = 537.5868430974136 
+            xmax = 544.3310349966322 
+            text = "starting off it was like kind of rough because my partner and I couldn't really find an idea." 
+        intervals [70]:
+            xmin = 544.3310349966322 
+            xmax = 552.1992588790537 
+            text = "And by the time that we got to the time where we were supposed to enter the science fair we didn't have solid data to turn in." 
+        intervals [71]:
+            xmin = 552.1992588790537 
+            xmax = 561.0324547445997 
+            text = "So we decided that we were just going to wait. And as we waited we ended up being faced with COVID so we weren't able to go our senior year." 
+        intervals [72]:
+            xmin = 561.0324547445997 
+            xmax = 568.2421452934783 
+            text = "" 
+        intervals [73]:
+            xmin = 568.2421452934783 
+            xmax = 572.5016349140373 
+            text = "I would have to say that my favorite class was my " 
+        intervals [74]:
+            xmin = 572.5016349140373 
+            xmax = 576.8202841126596 
+            text = "certified nursing assistant's class. Mainly because it was hands on." 
+        intervals [75]:
+            xmin = 576.8202841126596 
+            xmax = 587.0859166871613 
+            text = "Every day we either went to the lab where we worked with different plastic cadavers where we were able to form the CNA skills" 
+        intervals [76]:
+            xmin = 587.0859166871613 
+            xmax = 594.1782711179991 
+            text = "or we were able to go volunteer at the local nursing home and interact with the elderly patients and practice our skills." 
+        intervals [77]:
+            xmin = 594.1782711179991 
+            xmax = 603.8455129751069 
+            text = "So I liked it because it was really hands on. I wasn't ever sitting down in a room looking at a board just learning. It was like everything in a book and like learning skills." 
+        intervals [78]:
+            xmin = 603.8455129751069 
+            xmax = 614.9248355075015 
+            text = "" 
+        intervals [79]:
+            xmin = 614.9248355075015 
+            xmax = 620.3636133135972 
+            text = "I grew up in a small community called Yorkville." 
+        intervals [80]:
+            xmin = 620.3636133135972 
+            xmax = 629.1192308669686 
+            text = "It is a community kind of it's in between two cities. Dallas which is in Paulding county and Rockmart which is in Polk county." 
+        intervals [81]:
+            xmin = 629.1192308669686 
+            xmax = 635.1535078294271 
+            text = "But my community identifies with Rockmart which is in Polk county although we are still in Paulding county." 
+        intervals [82]:
+            xmin = 635.1535078294271 
+            xmax = 643.147800066209 
+            text = "It is mainly filled with many family and friends just because it is a community where many people have stayed there throughout the generations." 
+        intervals [83]:
+            xmin = 643.147800066209 
+            xmax = 650.4835877460607 
+            text = "It's very rural. As you're driving there you see many farms." 
+        intervals [84]:
+            xmin = 650.4835877460607 
+            xmax = 657.4333636113726 
+            text = "It takes like thirty minutes to get to a grocery store. But we do have some convenience stores such as Dollar General" 
+        intervals [85]:
+            xmin = 657.4333636113726 
+            xmax = 662.521087324818 
+            text = "or corner stores like within my community." 
+        intervals [86]:
+            xmin = 662.521087324818 
+            xmax = 672.5306798148694 
+            text = "And another thing that's unique about my community is it's mainly run by wells. It's not on the city water so yea." 
+        intervals [87]:
+            xmin = 672.5306798148694 
+            xmax = 682.2328506172538 
+            text = "" 
+        intervals [88]:
+            xmin = 682.2328506172538 
+            xmax = 690.3386670734006 
+            text = "Honestly being on the campus at Georgia Tech it doesn't really feel like I'm in Atlanta just because I don't see the big buildings." 
+        intervals [89]:
+            xmin = 690.3386670734006 
+            xmax = 699.1398543313136 
+            text = "It feels kinda similar to being like closer to where I was at home because the scenery like the trees are the same." 
+        intervals [90]:
+            xmin = 699.1398543313136 
+            xmax = 708.2174377073464 
+            text = "Georgia Tech to me or the Atlanta area where Georgia Tech is is similar to the city of Dallas. It doesn't really feel like " 
+        intervals [91]:
+            xmin = 708.2174377073464 
+            xmax = 714.5475125601216 
+            text = "like Atlanta as a city. Just because I'm not like in the center where there's a bunch of traffic going on" 
+        intervals [92]:
+            xmin = 714.5475125601216 
+            xmax = 720.4043107883903 
+            text = "or like big buildings. So it hasn't really been that different for me." 
+        intervals [93]:
+            xmin = 720.4043107883903 
+            xmax = 727.5024771179031 
+            text = "" 
+        intervals [94]:
+            xmin = 727.5024771179031 
+            xmax = 735.5384644601103 
+            text = "I decided I wanted to be a doctor because at a young age and with attending the Ben Carson  Science academy I realized that I really like" 
+        intervals [95]:
+            xmin = 735.5384644601103 
+            xmax = 742.0460180470754 
+            text = "doing dissections and I figured that I could continue on my passion through surgery." 
+        intervals [96]:
+            xmin = 742.0460180470754 
+            xmax = 747.5478588069642 
+            text = "So I decided that I want to become a surgeon mainly because I just want to" 
+        intervals [97]:
+            xmin = 747.5478588069642 
+            xmax = 757.2412973730295 
+            text = "I don't know be able to fix things and help other people and in combination with my passion for neuroscience I decided I wanted to be a neurosurgeon." 
+        intervals [98]:
+            xmin = 757.2412973730295 
+            xmax = 766.5429122258802 
+            text = "" 
+        intervals [99]:
+            xmin = 766.5429122258802 
+            xmax = 770.4842818462819 
+            text = "I think that it was affected me by just" 
+        intervals [100]:
+            xmin = 770.4842818462819 
+            xmax = 779.0032610873999 
+            text = "making me more isolated. Because if it wasn't for Corona I would be out hanging out with my friends every day" 
+        intervals [101]:
+            xmin = 779.0032610873999 
+            xmax = 787.5813999065813 
+            text = "traveling specifically I was supposed to go on a trip to Costa Rica last year but it was cancelled. And it's still" 
+        intervals [102]:
+            xmin = 787.5813999065813 
+            xmax = 791.601330877243 
+            text = "maybe cancelled this year just because of Corona." 
+        intervals [103]:
+            xmin = 791.601330877243 
+            xmax = 797.6356078397016 
+            text = "And I've also experienced some family members pass away from the disease. So" 
+        intervals [104]:
+            xmin = 797.6356078397016 
+            xmax = 800.7739570380891 
+            text = "at the beginning I would have to say that" 
+        intervals [105]:
+            xmin = 800.7739570380891 
+            xmax = 810.6536065746635 
+            text = "not that I didn't think it was serious but I didn't really see its true effects until it affected my family members. Because staying inside for me that wasn't " 
+        intervals [106]:
+            xmin = 810.6536065746635 
+            xmax = 818.1077134106417 
+            text = "something that was really hard. I still was able to talk to my friends on the phone and still visit some of them of course being safe." 
+        intervals [107]:
+            xmin = 818.1077134106417 
+            xmax = 829.6573922298983 
+            text = "But as I seen that Coronavirus has like actually came in and affected my family members it like opened my eyes more to see that it's like really real and I need to be more  precautious with what I'm doing." 
+        intervals [108]:
+            xmin = 829.6573922298983 
+            xmax = 833.9158988123719 
+            text = "And more specifically it's affected me" 
+        intervals [109]:
+            xmin = 833.9158988123719 
+            xmax = 839.549619825295 
+            text = "with like what my apparel of what I'm wearing. So now we're used to wearing masks and" 
+        intervals [110]:
+            xmin = 839.549619825295 
+            xmax = 848.601035268983 
+            text = "it's still like very different for me. Although we've been in a pandemic for almost a year now it's like I still forget my mask although it's like mandatory." 
+        intervals [111]:
+            xmin = 848.601035268983 
+            xmax = 855.0494292778848 
+            text = "And it's making me like question like how's it going to be after the pandemic. Like are people still going to be wearing masks everywhere." 
+        intervals [112]:
+            xmin = 855.0494292778848 
+            xmax = 862.07389189434 
+            text = "And yea I mean it's also like opened my awareness to like sanitation more. " 
+        intervals [113]:
+            xmin = 862.07389189434 
+            xmax = 869.3505199961284 
+            text = "Not that I wasn't being sanitary because I'm kind of like a germaphobe. But the idea that like " 
+        intervals [114]:
+            xmin = 869.3505199961284 
+            xmax = 877.0509516421519 
+            text = "like chefs and like workers that work within the food industry" 
+        intervals [115]:
+            xmin = 877.0509516421519 
+            xmax = 884.6311268324903 
+            text = "like they weren't wearing mask before. But now they're like they feel obligated to wear them when they should have been wearing them beforehand." 
+        intervals [116]:
+            xmin = 884.6311268324903 
+            xmax = 889.9166853137956 
+            text = "It just like opened my eyes and I think like the community eye the community's eyes" 
+        intervals [117]:
+            xmin = 889.9166853137956 
+            xmax = 895.8326431201276 
+            text = "to instances where people should have been more sanitary before the Coronavirus hit." 
+        intervals [118]:
+            xmin = 895.8326431201276 
+            xmax = 903.674670293591 
+            text = "" 
+        intervals [119]:
+            xmin = 903.674670293591 
+            xmax = 910.9076372137831 
+            text = "I use social media as a primary form of communication" 
+        intervals [120]:
+            xmin = 910.9076372137831 
+            xmax = 918.9533398303946 
+            text = "with mainly my friends just because my family members we talk on the phone or I can see them in person because they live close to me." 
+        intervals [121]:
+            xmin = 918.9533398303946 
+            xmax = 926.407446666373 
+            text = "But for my friends that I've met over the country and even internationally I use that as a way to communicate with them" 
+        intervals [122]:
+            xmin = 926.407446666373 
+            xmax = 930.5544290294807 
+            text = "and when I say communication I don't mean talking like " 
+        intervals [123]:
+            xmin = 930.5544290294807 
+            xmax = 936.524688776674 
+            text = "through text. I use it as a way to like see what's going on in their life they can see what's going on in my life." 
+        intervals [124]:
+            xmin = 936.524688776674 
+            xmax = 946.4712470895452 
+            text = "It's not necessarily me texting texting them through social media or calling them through different social media apps. It's just ways to" 
+        intervals [125]:
+            xmin = 946.4712470895452 
+            xmax = 950.0208217733444 
+            text = "help our lives stay integrated although we are far apart." 
+        intervals [126]:
+            xmin = 950.0208217733444 
+            xmax = 981.942705741525 
+            text = "" 
+        intervals [127]:
+            xmin = 981.942705741525 
+            xmax = 988.1544614381736 
+            text = "I don't have a favorite restaurant but I do enjoy restaurants that have seafood." 
+        intervals [128]:
+            xmin = 988.1544614381736 
+            xmax = 999.6682570506825 
+            text = "" 
+        intervals [129]:
+            xmin = 999.6682570506825 
+            xmax = 1006.1166510595843 
+            text = "Two weekends ago I visited Tennesse to visit my boyfriend" 
+        intervals [130]:
+            xmin = 1006.1166510595843 
+            xmax = 1009.6662257433835 
+            text = "and I got stuck up there because of a snowstorm." 
+        intervals [131]:
+            xmin = 1009.6662257433835 
+            xmax = 1013.0538200894615 
+            text = "" 
+        intervals [132]:
+            xmin = 1013.0538200894615 
+            xmax = 1021.6911184867064 
+            text = "We went to the same middle school but we didn't like each other. So we were able to reconnect in high school." 
+        intervals [133]:
+            xmin = 1021.6911184867064 
+            xmax = 1026.4587849004367 
+            text = "" 
+        intervals [134]:
+            xmin = 1026.4587849004367 
+            xmax = 1033.321295955782 
+            text = "No he actually attends Mississippi State University. He is currently online though and he lives in Tennessee." 
+        intervals [135]:
+            xmin = 1033.321295955782 
+            xmax = 1040.5018982346728 
+            text = "" 
+        intervals [136]:
+            xmin = 1040.5018982346728 
+            xmax = 1046.3596507244151 
+            text = "Later this year I think I'm mainly looking forward to summer at this point." 
+        intervals [137]:
+            xmin = 1046.3596507244151 
+            xmax = 1056.830896041623 
+            text = "because school has gotten time consuming. Like I thought that having less credit hours meant that I was going to be doing less work and have more free time" 
+        intervals [138]:
+            xmin = 1056.830896041623 
+            xmax = 1065.5865135949944 
+            text = "but actually it seems that this semester has been shortened. And I now have a test every single week leading up to the end of the year" 
+        intervals [139]:
+            xmin = 1065.5865135949944 
+            xmax = 1069.9827411057918 
+            text = "so I'm just waiting on the summer so I can relax " 
+        intervals [140]:
+            xmin = 1069.9827411057918 
+            xmax = 1078.716036549322 
+            text = "and have a break from school being that we didn't have a spring break this semester or even a fall break last semester." 
+        intervals [141]:
+            xmin = 1078.716036549322 
+            xmax = 1081.7923346086147 
+            text = "" 
+        intervals [142]:
+            xmin = 1081.7923346086147 
+            xmax = 1091.6719841451893 
+            text = "I plan on going to Costa Rica the trip that I mentioned previously. And I also plan to work as a CNA so I can keep my license." 
+        intervals [143]:
+            xmin = 1091.6719841451893 
+            xmax = 1099.5886692931847 
+            text = "" 
+        intervals [144]:
+            xmin = 1099.5886692931847 
+            xmax = 1107.2202548633531 
+            text = "As a CNA there's a variety of jobs that you can do. It's mainly towards the long term care patients" 
+        intervals [145]:
+            xmin = 1107.2202548633531 
+            xmax = 1115.9167128386612 
+            text = "because it involves skills that help them with like moving or getting dressed doing their hair." 
+        intervals [146]:
+            xmin = 1115.9167128386612 
+            xmax = 1119.685461362075 
+            text = "Like a primary skill that they use is like" 
+        intervals [147]:
+            xmin = 1119.685461362075 
+            xmax = 1128.2897681136014 
+            text = "walking a person to the restroom. So the skills of a CNA would be like tying on a belt to their waist and making sure that they don't fall." 
+        intervals [148]:
+            xmin = 1128.2897681136014 
+            xmax = 1134.9156408566932 
+            text = "Of course there's more in detail skills that you have to follow that are in the book that you learn as a CNA." 
+        intervals [149]:
+            xmin = 1134.9156408566932 
+            xmax = 1141.4231944436585 
+            text = "But it's primarily with long term care patients and people who need someone there to like watch their every move " 
+        intervals [150]:
+            xmin = 1141.4231944436585 
+            xmax = 1149.776318747937 
+            text = "or to even just spend time with them. I know some CNA's they just go sit with different patients and watch TV just because they" 
+        intervals [151]:
+            xmin = 1149.776318747937 
+            xmax = 1158.9392584109908 
+            text = "they just want someone to be there with them. So but with my job what I plan to do is to go work in a local nursing home" 
+        intervals [152]:
+            xmin = 1158.9392584109908 
+            xmax = 1168.2205172301713 
+            text = "because often they are understaffed and they are not able to react to the patients needing their help in like a quick manner." 
+        intervals [153]:
+            xmin = 1168.2205172301713 
+            xmax = 1175.0102788339318 
+            text = "When I was working there as a CNA in my high school in my senior year of high school" 
+        intervals [154]:
+            xmin = 1175.0102788339318 
+            xmax = 1185.3476778219333 
+            text = "I experienced that many of the patients there would click the buttons but there wasn't there weren't many CNA's to go attend to them as quick enough as they needed to be attended to." 
+        intervals [155]:
+            xmin = 1185.3476778219333 
+            xmax = 1192.0016557969286 
+            text = "And additionally with that there's not enough CNA's to help feed the patients all at once because there's one feeding time." 
+        intervals [156]:
+            xmin = 1192.0016557969286 
+            xmax = 1200.6389541941735 
+            text = "So just by going there and volunteering my time I'm just like hoping to help out and relieve some of the stress of the people there." 
+        intervals [157]:
+            xmin = 1200.6389541941735 
+            xmax = 1211.2149287939906 
+            text = "" 
+        intervals [158]:
+            xmin = 1211.2149287939906 
+            xmax = 1214.2912268532832 
+            text = "It was this past voting term." 
+        intervals [159]:
+            xmin = 1214.2912268532832 
+            xmax = 1217.7127671065518 
+            text = "" 
+        intervals [160]:
+            xmin = 1217.7127671065518 
+            xmax = 1219.3100757142615 
+            text = "I voted in person." 
+        intervals [161]:
+            xmin = 1219.3100757142615 
+            xmax = 1224.9893952083403 
+            text = "" 
+        intervals [162]:
+            xmin = 1224.9893952083403 
+            xmax = 1229.4864774026255 
+            text = "Mainly I get my news off the news app on Apple" 
+        intervals [163]:
+            xmin = 1229.4864774026255 
+            xmax = 1239.0111694708203 
+            text = "or Apple products and the news from there comes from different sources. I'm not sure of the exact sources I just see little " 
+        intervals [164]:
+            xmin = 1239.0111694708203 
+            xmax = 1244.690488964899 
+            text = "tidbits here and there. And I also look at the news sometimes. But as I've" 
+        intervals [165]:
+            xmin = 1244.690488964899 
+            xmax = 1250.192329724788 
+            text = "like gotten older I've realized that the news is very skewed with its I mean with like" 
+        intervals [166]:
+            xmin = 1250.192329724788 
+            xmax = 1255.3576317504076 
+            text = "political information like some channels support or they" 
+        intervals [167]:
+            xmin = 1255.3576317504076 
+            xmax = 1261.2454555482236 
+            text = "portray their political views through their showings and they often don't tell the full story of something." 
+        intervals [168]:
+            xmin = 1261.2454555482236 
+            xmax = 1266.096540949416 
+            text = "So I kind of been turning away from  looking at the news on TV." 
+        intervals [169]:
+            xmin = 1266.096540949416 
+            xmax = 1272.351929051051 
+            text = "" 
+        intervals [170]:
+            xmin = 1272.351929051051 
+            xmax = 1278.251376646219 
+            text = "I don't really talk about politics mainly because it's just not one of my interests." 
+        intervals [171]:
+            xmin = 1278.251376646219 
+            xmax = 1286.592877153147 
+            text = "But I know this past year with like the social issues going on it has come up in a lot more of my conversations" 
+        intervals [172]:
+            xmin = 1286.592877153147 
+            xmax = 1293.5737073646187 
+            text = "with my peers. Especially like during the summer when there's like social injustices going on." 
+        intervals [173]:
+            xmin = 1293.5737073646187 
+            xmax = 1298.6614310780644 
+            text = "well not that they were only going on during the summer. When they became like" 
+        intervals [174]:
+            xmin = 1298.6614310780644 
+            xmax = 1305.0622893062534 
+            text = "campaigned over TV and on social media. I know that the" 
+        intervals [175]:
+            xmin = 1305.0622893062534 
+            xmax = 1313.8256560578593 
+            text = "topic of politics picked up during that time. But usually I'm not a person to get into politics because I keep my views to myself." 
+        intervals [176]:
+            xmin = 1313.8256560578593 
+            xmax = 1324.7226422188617 
+            text = "" 
+        intervals [177]:
+            xmin = 1324.7226422188617 
+            xmax = 1329.800650657903 
+            text = "Currently I compare I" 
+        intervals [178]:
+            xmin = 1329.800650657903 
+            xmax = 1335.7757680422983 
+            text = "would look at social political issues. Like people" 
+        intervals [179]:
+            xmin = 1335.7757680422983 
+            xmax = 1341.3959279583137 
+            text = "within like the middle class of like what I live in the class that I live in" 
+        intervals [180]:
+            xmin = 1341.3959279583137 
+            xmax = 1347.4893644988358 
+            text = "just how different laws in that are being made are affecting" 
+        intervals [181]:
+            xmin = 1347.4893644988358 
+            xmax = 1353.554667030842 
+            text = "like my family and going to be affecting my future. So that's really what I've been looking at." 
+        intervals [182]:
+            xmin = 1353.554667030842 
+            xmax = 1359.9012233181707 
+            text = "But I also know that I've gone to like looking into some more" 
+        intervals [183]:
+            xmin = 1359.9012233181707 
+            xmax = 1366.5474520949329 
+            text = "politics about like laws being created about the school. So I guess mainly the" 
+        intervals [184]:
+            xmin = 1366.5474520949329 
+            xmax = 1371.930973698695 
+            text = "legislative part of it. Just the laws being made and how they affect" 
+        intervals [185]:
+            xmin = 1371.930973698695 
+            xmax = 1381.255864922859 
+            text = "my community mainly because I've seen that they put small print in laws and often the people are just voting for something that they don't really know about." 
+        intervals [186]:
+            xmin = 1381.255864922859 
+            xmax = 1393.0935924341984 
+            text = "" 
+        intervals [187]:
+            xmin = 1393.0935924341984 
+            xmax = 1398.6632962318572 
+            text = "Yes the area that I live in is very conservative." 
+        intervals [188]:
+            xmin = 1398.6632962318572 
+            xmax = 1405.7624455994558 
+            text = "And that political ideal has been expressed within" 
+        intervals [189]:
+            xmin = 1405.7624455994558 
+            xmax = 1411.7967225619145 
+            text = "the community buildings that I go visit and especially within my high school." 
+        intervals [190]:
+            xmin = 1411.7967225619145 
+            xmax = 1418.2257147986204 
+            text = "" 
+        intervals [191]:
+            xmin = 1418.2257147986204 
+            xmax = 1424.7128835753037 
+            text = "I remember in 2016 that's when I entered high school when Trump was elected as President" 
+        intervals [192]:
+            xmin = 1424.7128835753037 
+            xmax = 1433.1727032383585 
+            text = "I saw that many of the people in my school primarily liked him because they followed the same political ideology as them" 
+        intervals [193]:
+            xmin = 1433.1727032383585 
+            xmax = 1439.3844589350072 
+            text = "but they really didn't know anything about what he was doing. And on the day that he was elected" 
+        intervals [194]:
+            xmin = 1439.3844589350072 
+            xmax = 1450.0593509187506 
+            text = "people came to school with the Rebel flag flying on all of their cars with Trump masks and Trump posters all throughout my high school." 
+        intervals [195]:
+            xmin = 1450.0593509187506 
+            xmax = 1458.6374897379321 
+            text = "" 
+        intervals [196]:
+            xmin = 1458.6374897379321 
+            xmax = 1464.5282050967805 
+            text = "Yea within my magnet program I didn't really experience it" 
+        intervals [197]:
+            xmin = 1464.5282050967805 
+            xmax = 1468.1960989367064 
+            text = "that much. Mainly because the people that I seen" 
+        intervals [198]:
+            xmin = 1468.1960989367064 
+            xmax = 1477.6024718487745 
+            text = "that I've been surrounded with in the magnet program like to look more in depth with their political ideologies instead of just going off what their parents believe." 
+        intervals [199]:
+            xmin = 1477.6024718487745 
+            xmax = 1490.2829775879948 
+            text = "So they I guess I would use the term they were more woke about the situation instead of just going with what everybody else was going with. And they're open to having deeper conversations about different issues and not just" 
+        intervals [200]:
+            xmin = 1490.2829775879948 
+            xmax = 1493.4184352253508 
+            text = "grazing over the top and going with the trend." 
+        intervals [201]:
+            xmin = 1493.4184352253508 
+            xmax = 1503.5424722724126 
+            text = "" 
+        intervals [202]:
+            xmin = 1503.5424722724126 
+            xmax = 1510.724028812777 
+            text = "I don't think so personally. Sometimes I do kind of hear it with certain words that I say" 
+        intervals [203]:
+            xmin = 1510.724028812777 
+            xmax = 1519.006369741642 
+            text = "and I've been told that I've had a Southern accent mainly because my dad's family is from the North. So when I talk to them they realize that I say" 
+        intervals [204]:
+            xmin = 1519.006369741642 
+            xmax = 1527.7619872950136 
+            text = "certain words differently and that I also use filler words such as um and like which you've probably heard like several times in here." 
+        intervals [205]:
+            xmin = 1527.7619872950136 
+            xmax = 1529.9508916833563 
+            text = "And yea." 
+        intervals [206]:
+            xmin = 1529.9508916833563 
+            xmax = 1543.6642612200842 
+            text = "" 
+        intervals [207]:
+            xmin = 1543.6642612200842 
+            xmax = 1549.472540629555 
+            text = "There's not really like a certain person because anybody can have a Southern accent." 
+        intervals [208]:
+            xmin = 1549.472540629555 
+            xmax = 1556.5716899971535 
+            text = "I know I was kind of surprised I met an Asian and she had a strong Southern accent and that was a surprise to me." 
+        intervals [209]:
+            xmin = 1556.5716899971535 
+            xmax = 1566.983775736298 
+            text = "But I think it just depends on the area that people grow up in. I've found that people in Macon Georgia have a really strong Southern accent whether they believe it or not." 
+        intervals [210]:
+            xmin = 1566.983775736298 
+            xmax = 1575.4532818971452 
+            text = "And people down South such as in like Mississippi and Alabama they have a more Southern accent" 
+        intervals [211]:
+            xmin = 1575.4532818971452 
+            xmax = 1583.0848674673136 
+            text = "and I know that mainly because my grandma's side of the family they're from Alabama and their accent is very different from mine." 
+        intervals [212]:
+            xmin = 1583.0848674673136 
+            xmax = 1589.159856497113 
+            text = "" 
+        intervals [213]:
+            xmin = 1589.159856497113 
+            xmax = 1595.9040483963315 
+            text = "Yea I would say I'm a Southerner just because I was born and raised in Georgia and it's in the South so" 
+        intervals [214]:
+            xmin = 1595.9040483963315 
+            xmax = 1598.8620272994976 
+            text = "that's like the definition of a Southerner." 
+        intervals [215]:
+            xmin = 1598.8620272994976 
+            xmax = 1601.0751623206277 
+            text = "" 
+        intervals [216]:
+            xmin = 1601.0751623206277 
+            xmax = 1606.3995243463264 
+            text = "To me it just means that I was born in the South. But that doesn't necessarily mean that I like" 
+        intervals [217]:
+            xmin = 1606.3995243463264 
+            xmax = 1611.2506097475189 
+            text = "follow everything that the Southern states do." 
+        intervals [218]:
+            xmin = 1611.2506097475189 
+            xmax = 1623.660531267296 
+            text = "" 
+        intervals [219]:
+            xmin = 1623.660531267296 
+            xmax = 1633.5362774281414 
+            text = "I think that I've adapted more slang because when I was a kid I actually went to school in Atlanta at a private school" 
+        intervals [220]:
+            xmin = 1633.5362774281414 
+            xmax = 1639.4522352344734 
+            text = "which I felt was a more proper setting than my public schools and Paulding county." 
+        intervals [221]:
+            xmin = 1639.4522352344734 
+            xmax = 1643.8892035892225 
+            text = "So just being around people who use more slang " 
+        intervals [222]:
+            xmin = 1643.8892035892225 
+            xmax = 1649.686842239428 
+            text = "I feel like my speech has adapted to that. But I also know how to " 
+        intervals [223]:
+            xmin = 1649.686842239428 
+            xmax = 1655.4350078093626 
+            text = "code switch I guess when it comes to being professional in different settings." 
+        intervals [224]:
+            xmin = 1655.4350078093626 
+            xmax = 1664.2400696663917 
+            text = "" 
+        intervals [225]:
+            xmin = 1664.2400696663917 
+            xmax = 1666.310654898608 
+            text = "I do not think so." 
+        intervals [226]:
+            xmin = 1666.310654898608 
+            xmax = 1677.387057093358 
+            text = "" 
+        intervals [227]:
+            xmin = 1677.387057093358 
+            xmax = 1680.0492381062074 
+            text = "Not that I can think of." 
+        intervals [228]:
+            xmin = 1680.0492381062074 
+            xmax = 1776.7923809523809 
+            text = "" 
